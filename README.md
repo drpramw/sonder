@@ -1,2 +1,4 @@
 # sonder
 bookings
+locations
+guests
